@@ -5,3 +5,4 @@ https://www.vogue.com/feed/rss
 https://rain-mag.com/category/news/feed/
 https://www.fashionsnap.com/rss.xml
 https://stupiddope.com/category/fashion/feed/
+https://www.modernnotoriety.com/feed/
