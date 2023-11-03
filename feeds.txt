@@ -1,6 +1,6 @@
 https://hypebeast.com/fashion/feed
 https://hypebeast.cn/feed
-https://mastered.jp/news/feed/
+https://rsstranslator.com/rss/6527931a15b279e986ba
 https://www.vogue.com/feed/rss
 https://rain-mag.com/category/news/feed/
 https://www.fashionsnap.com/rss.xml
